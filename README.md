@@ -2,8 +2,6 @@
 
 # BitVMNet: The Developer-Friendly Testnet for BitVM Innovation
 
-BitVM enables a free market of second layers, potentially scaling Bitcoin to billions of users.
-
 ## Intro
 **BitVMNet** is an open Bitcoin Signet network **sponsored by [Bitlayer](https://x.com/BitlayerLabs)**, designed to facilitate the development and implementation of BitVM-based applications. As a collaborative platform, it empowers developers within the BitVM ecosystem, driving the advancement and adoption of BitVM technology.
 
@@ -11,7 +9,7 @@ BitVM enables a free market of second layers, potentially scaling Bitcoin to bil
 
 
 **Key Resources**
-- **Electrs Endpost**: Broadcast transactions to the network. [https://esplora.bitvmnet.org ](https://esplora.bitvmnet.org )
+- **Electrs Endpoint**: Broadcast transactions to the network. [https://esplora.bitvmnet.org ](https://esplora.bitvmnet.org )
 - **BitVMNet Explorer**: Browse transactions and explore the network. [BitVMnet Explorer](https://mempool.bitvmnet.org/)
 - **BitVMNet vBTC Faucet**: Claim testnet vBTC for development purposes. [vBTC Faucet](https://www.thefaucet.org/Bitcoin/Bitvmnet)
 - **Recommended Wallet**: [Xverse Wallet](https://www.xverse.app/) supports custom Signet BTC URL links, making it ideal for interacting with BitVMnet.
