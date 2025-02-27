@@ -8,7 +8,9 @@
 
 
 
-**Key Resources**
+
+## Key Resources
+
 - Electrs Endpoint: Broadcast transactions to the endpoint. https://esplora.bitvmnet.org
 - BitVMNet Explorer: Browse transactions and explore the network. [BitVMnet Explorer](https://mempool.bitvmnet.org/){:target="_blank"}
 - BitVMNet vBTC Faucet: Claim testnet vBTC for development purposes. [vBTC Faucet](https://www.thefaucet.org/Bitcoin/Bitvmnet){:target="_blank"}
@@ -23,11 +25,12 @@
     <p align="center">
     <img src="./bitcoincore.png" style="max-width: 600px;" />
    </p>
-**Code References**
 
-- **Bitcoin Core Node (28.1)**: The Bitcoin Core node version used in the BitVMNet network is 28.1. [GitHub Link](https://github.com/bitcoin/bitcoin){:target="_blank"}
+## Code References
 
-- **Electrs Repository**: The Electrs implementation for BitVMNet. [Electrs GitHub](https://github.com/Blockstream/electrs){:target="_blank"}
+- Bitcoin Core Node (28.1): The Bitcoin Core node version used in the BitVMNet network is 28.1. [GitHub Link](https://github.com/bitcoin/bitcoin){:target="_blank"}
+
+- Electrs Repository: The Electrs implementation for BitVMNet. [Electrs GitHub](https://github.com/Blockstream/electrs){:target="_blank"}
 
 
 
