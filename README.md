@@ -13,7 +13,7 @@
 
 - Electrs Endpoint: Broadcast transactions to the endpoint. https://esplora.bitvmnet.org
 - BitVMNet Explorer: Browse transactions and explore the network. [BitVMnet Explorer](https://mempool.bitvmnet.org/){:target="_blank"}
-- BitVMNet vBTC Faucet: Claim testnet vBTC for development purposes. [vBTC Faucet](https://www.thefaucet.org/Bitcoin/Bitvmnet){:target="_blank"}
+- BitVMNet vBTC Faucet: Claim testnet vBTC for development purposes. [vBTC Faucet](https://www.thefaucet.org/Bitcoin/BitVMNet){:target="_blank"}
    <p align="center"><img src="./thefaucet.png" style="max-width: 600px;" /></p>
 
 - Recommended Wallet: [Xverse Wallet](https://www.xverse.app/){:target="_blank"} supports custom Signet BTC URL links, making it ideal for interacting with BitVMnet.
